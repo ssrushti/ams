@@ -47,7 +47,6 @@
 								 ?>
 							</td>
 							<td align="right" colspan="2">
-										<input type="button" class="btn btn-warning" id="leave-chat" name="leave-chat" value="Leave">
 									</td>
 						</tr>
 						<tr>
